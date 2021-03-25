@@ -1,3 +1,3 @@
 React Weather App
 
-Simple react weather app using the React Hooks and the openweather API.
+Simple react weather app using React Hooks and the openweather API.
