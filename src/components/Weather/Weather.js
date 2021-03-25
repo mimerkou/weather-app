@@ -7,9 +7,9 @@ const Weather = (props) => {
   return (
     <>
       {error ?
-      <div className="error">
-        {error}
-      </div> : null 
+        <div className="error">
+          {error}
+        </div> : null 
       }
 
       <div className="location-box">
